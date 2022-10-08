@@ -3,9 +3,9 @@
 
 ## Photos
 ![Preview](/1.PNG)
-![Preview](2.png)
-![Preview](3.png)
-![Preview](4.png)
-![Preview](5.png)
-![Preview](6.png)
-![Preview](7.png)
+![Preview](2.PNG)
+![Preview](3.PNG)
+![Preview](4.PNG)
+![Preview](5.PNG)
+![Preview](6.PNG)
+![Preview](7.PNG)
