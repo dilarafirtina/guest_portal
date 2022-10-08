@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Combined Shape</title>
+    <g id="Empty-States" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1_No-Messages" transform="translate(-303.000000, -595.000000)" fill="#FFFFFF">
+            <g id="Add" transform="translate(280.000000, 572.000000)">
+                <path d="M33,23 C34.1045695,23 35,23.8954305 35,25 L35,31 L41,31 C42.1045695,31 43,31.8954305 43,33 C43,34.1045695 42.1045695,35 41,35 L35,35 L35,41 C35,42.1045695 34.1045695,43 33,43 C31.8954305,43 31,42.1045695 31,41 L31,35 L25,35 C23.8954305,35 23,34.1045695 23,33 C23,31.8954305 23.8954305,31 25,31 L31,31 L31,25 C31,23.8954305 31.8954305,23 33,23 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
